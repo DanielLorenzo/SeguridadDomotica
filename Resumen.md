@@ -16,7 +16,7 @@
     * Añadir o dar de baja servicios específicos -> Genera modificación en la cuenta mensual
     * Recibir alertas de señal de alarma en la instalación
 
-### Encargado
+### Encargado 
 
 * Dispone de información:
     * Sobre abonados
@@ -112,7 +112,7 @@ Presencia de varios puestos dónde se deberá controlar:
 
 Edificio con:
 
-* Puerta d3e entrada
+* Puerta de entrada
 * Cinco plantas
 * Dos ascensores
 * Cuatro despachos
