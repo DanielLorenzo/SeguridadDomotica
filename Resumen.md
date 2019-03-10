@@ -1,5 +1,7 @@
 # Práctica Sistema de Gestión de una empresa de Seguridad
 
+* Todas las interfaces han de implementar el _Diseño para Todos_
+
 ## Controlar
 
 * Gestión de los abonados a los servicios ofrecidos
